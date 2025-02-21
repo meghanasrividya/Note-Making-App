@@ -2,6 +2,12 @@
 
 Welcome to the Note-Making App! This application allows you to create, edit, and delete notes seamlessly. It's built using modern web technologies like HTML, CSS, and JavaScript, with a backend powered by Node.js and Express.
 
+## Live Demo
+
+You can view the deployed application here:
+
+[Note-Taking App](https://note-making-app-l1il.onrender.com/)
+
 ## Features
 
 - **Create Notes:** Write and save your notes with ease.
